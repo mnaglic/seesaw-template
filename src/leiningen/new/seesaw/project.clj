@@ -3,6 +3,6 @@
   :url "http://example.com/FIXME"
   :license {:name "FIXME"
             :url "http://example.com/FIXME"}
-  :dependencies [[org.clojure/clojure "1.4.0"]
-                 [seesaw "1.4.2"]]
+  :dependencies [[org.clojure/clojure "1.5.0"]
+                 [seesaw "1.4.3"]]
   :main {{name}}.core)
