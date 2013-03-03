@@ -4,7 +4,7 @@
 (def render (renderer "seesaw"))
 
 (defn seesaw
-  "FIXME: write documentation"
+  "Creates a new Seesaw app"
   [name]
   (let [data {:name name
               :sanitized (name-to-path name)
